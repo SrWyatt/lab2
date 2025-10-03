@@ -1,4 +1,4 @@
-# Interpretación de resultados del dataset: football_matches.csv
+# Interpretación de resultados: football_matches.csv
 
 ### 1. ¿De qué trata el dataset?  
 El dataset contiene información detallada de 4,070 partidos de fútbol de la Premier League (temporadas 2010/2011 a 2020/2021). Incluye estadísticas por equipo local y visitante: pases, posesión, tiros, faltas, tarjetas, goles y resultados finales.
@@ -32,7 +32,7 @@ El dataset contiene información detallada de 4,070 partidos de fútbol de la Pr
 ---
 
 ### 6. Aportes de las medidas estadísticas  
-- **Media:** tendencia central (ej. goles promedio).  
+- **Media:** tendencia central.
 - **Mediana:** valor típico, útil ante valores extremos.  
 - **Desviación estándar:** mide variabilidad 
 
